@@ -1,0 +1,8 @@
+d=0,0,255;r=255,0,0;g=0,255,0;b=0,0,255;
+gbgrggrbbbgrggrgrgbgbggrbgrgbgrbgrgrggbrgbrggbgrggrgrggb
+xxxxxxxxxx
+xxxxxxxxxx
+..xx..xx..
+..xx..xx..
+xx..xx..xx
+xx..xx..xx
